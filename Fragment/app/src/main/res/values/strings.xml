@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChatBox</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Send</string>
+    <string name="edit_text">Message...</string>
+    <string name="user_one">USERNAME</string>
+    <string name="set_users">Save</string>
+    <string name="cancel_users">Cancel</string>
+
+</resources>
